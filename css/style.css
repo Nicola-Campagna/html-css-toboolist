@@ -63,4 +63,77 @@
     margin-top: 20px; 
 }
 
+/* TO DO LIST */
 
+.title-summary{
+    font-size: 30px;
+}
+
+details p{
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+}
+
+.type-task{
+ border: 1px solid;
+ border-radius: 15%;
+ line-height: 5px;
+ vertical-align: bottom;
+ margin-right: 10px;
+ font-size: 12px;
+ color: white;
+ padding: 3px;
+
+}
+
+.sales{
+    background-color: red;
+    border-color: red;
+
+}
+
+.editorial{
+    background-color: blue;
+    border-color:blue;
+
+}
+
+.goals{
+    background-color:purple;
+    border-color: purple;
+}
+
+.mobile{
+    background-color:orange;
+    border-color:orange;
+
+}
+
+.recruiting{
+    background-color:green;
+    border-color:green;
+
+}
+
+.cross{
+color:red;
+border-radius: 50%;
+border: 1px solid red;
+line-height: 10px;
+vertical-align: bottom;
+margin-right: 10px;
+font-size: 15px;
+
+}
+
+.check{
+    color: green;
+    border: 1px green solid;
+    border-radius: 50%;
+    line-height: 10px;
+    vertical-align: bottom;
+    margin-right: 10px;
+    font-size: 15px;
+
+}
